@@ -2,6 +2,10 @@
 
 This repository serves as a simple website, constructed with HTML5 and CSS, designed in compliance with accessibility standards. It offers a valuable resource for referencing well-structured HTML elements and best practices.
 
+The site is deployed with Github Pages. You can view it by clicking on the link below:
+
+[Horiseon Service Guide Demo](https://ewelinasobora.github.io/horiseon-service-guide/)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -34,8 +38,7 @@ To run this simple HTML with CSS project on your local machine, follow these ste
 
 The website should look like in the screenshot below:
 
-    ![Website](./assets/images/horiseon_website.png?raw=true)
-
+<img width="604" alt="horiseon_website" src="https://github.com/ewelinasobora/horiseon-service-guide/assets/11948354/9ca287ab-2cfd-408a-a7c9-dca93e940a28">
 
 ## License
 
