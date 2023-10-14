@@ -1,15 +1,19 @@
 # Horiseon Service Guide
 
-This repository serves as a simple website, constructed with HTML5 and CSS, designed in compliance with accessibility standards. It offers a valuable resource for referencing well-structured HTML elements and best practices.
+This repository serves as a simple website, constructed with HTML5 and CSS, designed in compliance with accessibility standards. It offers a valuable resource forw.
 
 The site is deployed with Github Pages. You can view it by clicking on the link below:
 
 [Horiseon Service Guide Demo](https://ewelinasobora.github.io/horiseon-service-guide/)
 
+Here is the screenshot for a quick reference. This screenshot showcases a website featuring sections on search engine optimization, online reputation management, and social media marketing, all filled with valuable information.
+
+<img width="604" alt="horiseon_website" src="https://github.com/ewelinasobora/horiseon-service-guide/assets/11948354/9ca287ab-2cfd-408a-a7c9-dca93e940a28">
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Purpose](#purpose)
 - [License](#license)
 
 ## Getting Started
@@ -34,11 +38,11 @@ To run this simple HTML with CSS project on your local machine, follow these ste
   $ open index.html
 ```
 
-## Usage
+## Purpose
 
-The website should look like in the screenshot below:
+Purpose of this website is to serve as an informative platform that offers structured and comprehensive resources to help businesses and individuals understand, enhance, and optimize their online presence.
 
-<img width="604" alt="horiseon_website" src="https://github.com/ewelinasobora/horiseon-service-guide/assets/11948354/9ca287ab-2cfd-408a-a7c9-dca93e940a28">
+The key objective is accessibility. The website is well-structured and designed with accessibility in mind, making it easy for all users, including those with disabilities, to access and benefit from its content.
 
 ## License
 
